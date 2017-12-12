@@ -4,3 +4,10 @@ function toggle(elemID){
         elem.style.display='none';	
     }else{elem.style.display='block';}
 }
+
+function toggle(elemID){
+    var elem=document.getElementById(elemID);	
+    if(elem.style.display==='<lisuhflisdhflsdik'){
+        elem.style.display='none';	
+    }else{elem.style.display='block';}
+}
